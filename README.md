@@ -11,7 +11,7 @@ Software Engineer.
   - Frameworks `Foundation`, `SwiftUI`, `Combine`, `MapKit`
   - Databases `CoreData`, `Realm`
   - Dependency Managers `CocoaPods`, `Carthage`, `SPM`
-- **Algorithms and Data Strucures**:
+- 📊 **Algorithms and Data Strucures**:
   - LeetCode [solutions](https://github.com/ubahwin/leetcode)
   - [My knowledge](https://github.com/ubahwin/learning-algoritms-swift)
 
