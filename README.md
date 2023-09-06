@@ -1,4 +1,4 @@
-# 🚀 Vdovin Ivan (@ubahwin)
+# 🚀 Ivan Vdovin (@ubahwin)
 
 Software Engineer. 
 
