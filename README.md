@@ -12,7 +12,7 @@ Software Engineer.
   - Databases `CoreData`, `Realm`
   - Dependency Managers `CocoaPods`, `Carthage`, `SPM`
 - 📊 **Algorithms and Data Strucures**:
-  - LeetCode [solutions](https://github.com/ubahwin/leetcode)
+  - Olympiad and LeetCode [solutions](https://github.com/ubahwin/leetcode)
   - [My knowledge](https://github.com/ubahwin/learning-algoritms-swift)
 
 ## Contacts
