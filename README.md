@@ -7,7 +7,7 @@ Software Engineer.
 ## Skills
 
 - 📱 **iOS Development**:
-  - Language `swift`
+  - Language `Swift`
   - Frameworks `Foundation`, `SwiftUI`, `Combine`, `MapKit`
   - Databases `CoreData`, `Realm`
   - Dependency Managers `CocoaPods`, `Carthage`, `SPM`
