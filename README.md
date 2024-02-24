@@ -17,8 +17,6 @@ Software Engineer.
 
 ## Contacts
 
-- [**Site**](ubahdev.ru)
-
 - **Telegram**: [@ubahwin](https://t.me/ubahwin)
 
 - **VK**: [@ivan03_vdovin](https://vk.com/ivan03_vdovin)
