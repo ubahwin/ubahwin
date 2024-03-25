@@ -8,7 +8,7 @@ Software Engineer.
 
 - 📱 **iOS Development**:
   - Language `Swift`
-  - Frameworks `Foundation`, `SwiftUI`, `Combine`, `MapKit`
+  - Frameworks `Foundation`, `SwiftUI`, `UIKit`, `Combine`, `MapKit`
   - Databases `CoreData`, `Realm`
   - Dependency Managers `CocoaPods`, `Carthage`, `SPM`
 - 📊 **Algorithms and Data Strucures**:
