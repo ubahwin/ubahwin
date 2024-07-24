@@ -6,11 +6,19 @@ Software Engineer.
 
 ## Skills
 
-- 📱 **iOS Development**:
+- 📱 **iOS**:
   - Language `Swift`
   - Frameworks `Foundation`, `SwiftUI`, `UIKit`, `Combine`, `MapKit`
   - Databases `CoreData`, `Realm`
   - Dependency Managers `CocoaPods`, `Carthage`, `SPM`
+  
+- 🌐 **Web**:
+  - Language `TypeScript`
+  - Frameworks `React`, `Redux`
+  - Tools `Vite`, `ESLint`, `SCSS`
+  - Dependency Managers `npm`
+  - Libraries `highlight.js`, `marked`, `axios`
+ 
 - 📊 **Algorithms and Data Strucures**:
   - Olympiad and LeetCode [solutions](https://github.com/ubahwin/leetcode)
   - [My knowledge](https://github.com/ubahwin/learning-algoritms-swift)
