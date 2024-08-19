@@ -1,7 +1,5 @@
 # 🚀 Ivan Ⅴdovin (@ubahwin)
 
-Software Engineer. 
-
 ❤ *Open Sourse and Computer Science* ❤
 
 ## Skills
