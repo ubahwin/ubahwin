@@ -25,6 +25,6 @@
 
 - **Telegram**: [@ubahwin](https://t.me/ubahwin)
 
-- **VK**: [@ivan03_vdovin](https://vk.com/ivan03_vdovin)
+- **VK**: [@ubahwin](https://vk.com/ubahwin)
 
 - **Email**: [ivan03_vdovin@mail.ru](mailto:ivan03_vdovin@mail.ru)
