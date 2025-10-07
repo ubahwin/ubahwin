@@ -6,10 +6,12 @@
 
 - 📱 **iOS**:
   - Language `Swift`, `Objective-C`
-  - Frameworks `Foundation`, `SwiftUI`, `UIKit`, `Combine`, `MapKit`
+  - UI `SwiftUI`, `UIKit`, `SnapKit`
+  - Frameworks `Combine`, `MapKit`, `DGis`, `CoreBluetooth`
   - Databases `CoreData`, `Realm`
   - Dependency Managers `CocoaPods`, `Carthage`, `SPM`
-  
+  - Tools `Swift Concurrency`, `SwiftLint`
+
 - 🌐 **Web**:
   - Language `TypeScript`
   - Frameworks `React`, `Redux`
